@@ -16,8 +16,7 @@ print("Please select operation -\n" \
         "3. Multiply\n" \
         "4. Divide\n")
 
-#comment
- 
+#i like food 
 select = int(input("Select operations form 1, 2, 3, 4 :"))
  
 number_1 = int(input("Enter first number: "))
