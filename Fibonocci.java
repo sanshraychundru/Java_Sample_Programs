@@ -18,4 +18,6 @@ public class Fibonocci {
         secondTerm = nextTerm;
         }
     }    
+    }
 }
+
