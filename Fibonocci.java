@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Fibonocci {
     public static void main(String[] args) {
-      
         
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter how many numbers you want to be in the Fibonocci: ");

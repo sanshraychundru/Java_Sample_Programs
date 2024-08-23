@@ -3,7 +3,7 @@ import java.util.*;
 public class PalindromeIdentifier {
    public static void main(String args[])  
    {  
-      String original, reverse = ""; // Objects of String class  
+      String original, reverse = "";  
       try (Scanner sc = new Scanner(System.in)) {
         System.out.println("Enter a string/number to check if it is a palindrome: ");  
           original = sc.nextLine();
